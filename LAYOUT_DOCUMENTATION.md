@@ -88,8 +88,3 @@ Spacing uses `wp('%')` so paddings/margins scale with screen width: `xs≈1%`, `
 | Pixel Tablet   | 852×393   | Landscape   | 2       | Failed |
 
 **Functionality:** grid adapts; pull-to-refresh works; header buttons accessible; performance monitor ~60 FPS.
-
----
-
-## Reflection
-(Write 150–200 words on what you learned, responsive RN patterns, Flexbox, platform nuances, and how you’ll apply to future projects.)
